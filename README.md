@@ -32,5 +32,5 @@ Welcome to my GitHub Profile! 😀
 
 ## 🤝 Let's Connect!
 
-N'hésite pas à me contacter pour discuter de projets, d'opportunités de collaboration ou simplement pour échanger des idées. Je suis toujours ouvert aux discussions et aux nouvelles connexions.
+Don't hesitate to contact me to discuss projects, collaboration opportunities or simply to exchange ideas. I'm always open to discussion and new connections.
 
