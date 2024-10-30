@@ -18,7 +18,7 @@ Welcome to my GitHub Profile! 😀
 ## 🛠️ Skills
 
 - **Practical skills** : C, C++, HTML5, CSS3, JavaScript, PHP, SQL, Python, Java
- React, Bootstrap, jQuery, MySQL,
+ React, Bootstrap, jQuery, MySQL
 - **Tools and technologies** : Git, GitHub, VsCode, Clion, Pycharm,Wordpress
 
 ---
