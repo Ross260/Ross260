@@ -3,7 +3,7 @@
 
 Welcome to my GitHub Profile! 😀
 
-🚀 I am a creative and innovative Full Stack Developer, I transform ideas into dynamic web applications. My mission: to solve problems with elegant, effective solutions while exploring new technological horizons.
+🚀 I am a creative and innovative Full Stack Developper, I transform ideas into dynamic web applications. My mission: to solve problems with elegant, effective solutions while exploring new technological horizons.
 
 ---
 
